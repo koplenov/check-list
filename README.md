@@ -12,4 +12,6 @@
 
 # Росписи с учебников)
 
-Predlogenie has been sayed (Литра)
+Predlogenie has been sayed (Литра (С.А.Зинин), стр 320)
+
+gitem *почеркнутый текст* $d (Русксий (М.М. Разумовская), стр 20)
